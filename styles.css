@@ -1,6 +1,18 @@
-#box1 {
-    color: white;
+body {
+    background-color: #fffcfc;
 }
-#box2 {
-    color: white;
+#vignette {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 0 200px rgba(231, 231, 231, 0.9) inset;
+  }
+#mainPageLogo {
+    height: auto;
+    width: 100%;
+    max-width: 690px;
+    border-radius: 10%;
 }
+
