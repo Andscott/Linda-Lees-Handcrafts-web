@@ -19,6 +19,13 @@
   },
   "homepage": "https://github.com/Andscott/Linda-Lees-Handcrafts-web#readme",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.9.0",
     "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-social": "^5.1.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
   }
 }
