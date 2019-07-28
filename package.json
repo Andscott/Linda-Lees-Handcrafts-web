@@ -1,0 +1,24 @@
+{
+  "name": "lindaleesweb",
+  "version": "1.0.0",
+  "description": "Website for Linda Lee",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andscott/Linda-Lees-Handcrafts-web.git"
+  },
+  "author": "Andrew Huenergardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andscott/Linda-Lees-Handcrafts-web/issues"
+  },
+  "homepage": "https://github.com/Andscott/Linda-Lees-Handcrafts-web#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
